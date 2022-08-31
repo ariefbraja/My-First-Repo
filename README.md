@@ -4,4 +4,4 @@ NPM : 2106702352
 
 Kelas : F
 
-Hobi : Gaming
+Hobi : Tidur
